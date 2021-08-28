@@ -1,7 +1,7 @@
 {
   "name": "api-rest",
   "version": "1.0.0",
-  "description": "API-REST listagem de motorias e veiculos",
+  "description": "API-REST listagem de motoristas e veiculos",
   "main": "index.js",
   "scripts": {
     "start": "nodemon server",
