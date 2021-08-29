@@ -1,5 +1,5 @@
 module.exports = app => {
-    const controller = require('../controllers/resource')();
+    const controller = require('../controllers/resources')();
   
     app.route('/drivers')
       .get(controller.listResources)
